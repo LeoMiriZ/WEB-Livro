@@ -1,6 +1,6 @@
 # WEB-Livro
 
-API Restful em Springboot para gerenciar o cadastro de livros (parte WEB)
+API Restful em Springboot para gerenciar o cadastro de livros
 
 ##
 
